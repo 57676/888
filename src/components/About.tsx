@@ -44,7 +44,7 @@ export default () => (
     <br></br>
     <p class="flex flex-wrap items-end mt-1">
      官网更多黑科技{" "}
-      <a href="http://mxnf.tk" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.shields.io/badge/-进入官网-fff?logo=Telegram" />
       </a>{" "}
     
